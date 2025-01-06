@@ -1,10 +1,10 @@
 {
-    "name": "nwidart/product",
+    "name": "cheynerpb/product",
     "description": "",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Cheyner Pérez",
+            "email": "cheynerpb@gmail.com"
         }
     ],
     "extra": {
